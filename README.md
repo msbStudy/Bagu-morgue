@@ -8,7 +8,9 @@
 
 3.以下知识点来源于 <font color='red'>沉默王二-面渣逆袭 https://javabetter.cn/sidebar/sanfene/nixi.html</font>
 
+4.一旦你学会了一些东西，以后再复习，甚至更晚再复习。每次重复，你都会巩固你的学习成果。一次性花费大量时间在优先级队列上并不能让你成为专家。只有通过不断回顾和复习，你才能成为专家。如果你这样做，你就能达到一个不会忘记所有细节的地步。
 
+5.I’m about as prepared as I can be. I can’t keep studying and putting off the application forever. At some point, I have to take the leap. I see a bright future ahead.
 
 -----------------------
 
@@ -25,3 +27,6 @@ day02 2025.4.25
 2.今天整理了一下JavaSE和集合框架 争取都给背了
 
 3.并发编程背基础10道
+
+---
+
